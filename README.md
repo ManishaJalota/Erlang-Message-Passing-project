@@ -1,6 +1,6 @@
 # Erlang-Message-Passing-project
 Comp 6441 (Comparative study of programming language) final project in Erlang (1st version).
-
+Software used : Eclipse
 1) For Erlang
 
 --> Compile 2 file (exchange.erl and calling.erl)
